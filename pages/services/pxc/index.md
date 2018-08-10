@@ -1,9 +1,17 @@
 ---
+layout: layout.pug
+navigationTitle:
+title: Percona XtraDB Cluster
+menuWeight: 82
+excerpt:
+featureMaturity:
 post_title: Version 1.0-Pxc
 menu_order: 10
 post_excerpt: ""
-enterprise: 'no'
+enterprise: false
 ---
+
+Welcome to the documentation for DC/OS Percona XtraDB Cluster.
 
 # Components
 
